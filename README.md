@@ -1,0 +1,1 @@
+# memvalidasi-pembagian-agar-tidak-dengan-NOL
